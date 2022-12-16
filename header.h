@@ -7,5 +7,6 @@
 #include "initEverything.h"
 #include "closeEverything.h"
 #include "globalVariables.h"
+#include "font.h"
 
 #endif

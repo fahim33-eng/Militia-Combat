@@ -6,6 +6,16 @@ using namespace std;
 
 int main() {
 
+    game_init();
+
+
+    while(is_running) {
+        
+    }   
+
+    closeMedia();
+    closeFont();
+    gameclose(); 
     
 
 }
